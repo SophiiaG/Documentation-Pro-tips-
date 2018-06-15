@@ -4,21 +4,21 @@
 
  * ### Intégration
 
-   + [BEM](#bem) <a id ="bem"><a>
-   + [Pseudos Attributs](#attributs)<a id ="attributs"><a>
-   + [Unités](#unites)<a id ="unites"><a>
-   + [FlexboxGrid](#flexbox)<a id ="flexbox"><a>
-   + [Grid Layout](#grid)<a id ="grid"><a>
-   + [SCSS](#scss)<a id ="scss"><a>
-   + [Mixins](#mixins)<a id ="mixins"><a>
-   + [CSS Tips](#tips)<a id ="tips"><a>
-   + [Font-face](#font-face)<a id ="font-face"><a>
+   + [BEM](#bem) 
+   + [Pseudos Attributs](#attributs)
+   + [Unités](#unites)
+   + [FlexboxGrid](#flexbox)
+   + [Grid Layout](#grid)
+   + [SCSS](#scss)
+   + [Mixins](#mixins)
+   + [CSS Tips](#tips)
+   + [Font-face](#font-face)
 
 * ### Javascript
 
-  + [Conditions & Boucles](#conditions&Boucles)<a id ="conditions&Boucles"><a>
-  + [Tableaux & Dictionnaires](#tableaux&Dictionnaires)<a id ="tableaux&Dictionnaires"><a>
-  + [Ajax](#ajax)<a id ="ajax"><a>
+  + [Conditions & Boucles](#conditions&Boucles)
+  + [Tableaux & Dictionnaires](#tableaux&Dictionnaires)
+  + [Ajax](#ajax)
 
 
 ## Intégration
