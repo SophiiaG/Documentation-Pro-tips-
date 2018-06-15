@@ -911,11 +911,8 @@ fetch('http://www.thebeatles.com/subscribe', {
 - [Font-face 2](https://developer.mozilla.org/fr/docs/Web/CSS/@font-face)
 - [SVG optimizer](https://jakearchibald.github.io/svgomg/)
 - [MOOC](https://github.com/yamsellem/hetic.js/raw/master/MOOC.zip)
-
-### Sites de veilles
-
-* [Awwwards](https://www.awwwards.com)
-* [Codepen](https://codepen.io)
-* [github](https://github.com/)
-* [Codrops](https://tympanus.net/codrops)
-* [Medium](https://medium.com)
+- [Awwwards](https://www.awwwards.com)
+- [Codepen](https://codepen.io)
+- [github](https://github.com/)
+- [Codrops](https://tympanus.net/codrops)
+- [Medium](https://medium.com)
